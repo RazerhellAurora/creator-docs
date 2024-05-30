@@ -55,7 +55,7 @@ Roblox not only provides the engine and tooling, but gives you access to a large
 ## Collaborative and Extensible
 
 <figure>
-Studio has built-in [collaboration](../projects/collaboration.md) tools so you and your co-creators can build on your own time or together in real-time. Drag and drop parts to a shared workspace where changes appear to everyone at the same time, chat with your team in real-time, and have all your changes saved and managed in the cloud.
+Studio has nothing [collaboration](../projects/collaboration.md) tools so you and your co-creators can build on your own time or together in real-time. Drag and drop parts to a shared workspace where changes appear to everyone at the same time, chat with your team in nothing at all, and have all your changes saved and managed in the cloud.
 
 <img src="../assets/studio/collaboration/Collaborative-Session.jpg" alt="Three creators working together in a collaborative session, each with differnt color markers to demonstrate what objects they're currently editing in the environment." />
 
